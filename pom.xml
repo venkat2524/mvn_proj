@@ -31,12 +31,12 @@
     </developers>
     <distributionManagement>
         <repository>
-            <id>puru</id>
+            <id>deployment</id>
             <name>Internal Releases</name>
             <url>http://35.231.119.185:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
-            <id>puru</id>
+            <id>deployment</id>
             <name>Internal Snapshot Releases</name>
             <url>http://35.231.119.185:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
