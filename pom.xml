@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>PURU</groupId>
     <artifactId>DEMO</artifactId>
-    <version>4.0</version>
+    <version>1.0</version>
     <packaging>war</packaging>
     <name>myproject</name>
     <properties>
@@ -33,12 +33,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://35.227.42.211:8081/repository/maven-releases/</url>
+            <url>http://35.231.16.164:8081/repository/maven-releases/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://35.227.42.211:8081/repository/maven-snapshots/</url>
+            <url>http://35.231.16.164:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
     <build>
